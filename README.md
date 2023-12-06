@@ -100,5 +100,5 @@ Note that he the neural network logistic regression (NN-log-reg) model is availa
 
 # Authors & Contact
 Chang Yun-Tsan <Yun-Tsan.Chang@chuv.ch>  
-Guenova-Hoetzenecker Emmanuella <Emmanuella.Guenova@unil.ch>
+Guenova-Hoetzenecker Emmanuella <Emmanuella.Guenova@unil.ch>  
 Prompsy Pacome <pacome.prompsy@chuv.ch>
