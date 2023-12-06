@@ -6,7 +6,7 @@ Repository hosting analysis code for the paper 'MHC-I Upregulation Safeguards Ne
 
 
 <p align="center">
-  <img src="www/g314.png">
+  <img src="www/image.png">
 </p>
 
 
