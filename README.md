@@ -95,7 +95,7 @@ For the re-analysis of public scRNA skin lesion datasets, the data are publicly 
 
 
 # Others
-Note that he the neural network logistic regression (NN-log-reg) model is available online at https://github.com/suskim/att-ANN.git
+Note that he the neural network logistic regression (NN-log-reg) model is available online at https://github.com/suskim/NN-log-reg.git
 
 
 # Authors & Contact
