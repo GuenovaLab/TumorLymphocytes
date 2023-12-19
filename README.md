@@ -97,6 +97,8 @@ For the re-analysis of public scRNA skin lesion datasets, the data are publicly 
 # Others
 Note that he the neural network logistic regression (NN-log-reg) model is available online at https://github.com/suskim/NN-log-reg.git
 
+# How to cite this material
+Please cite the following DOI: [10.5281/zenodo.10405928](DOI) and 'MHC-I Upregulation Safeguards Neoplastic T Cell in the Skin Against NK Cell Eradication in Mycosis Fungoides', Chang et al., Nature Communications (2023)
 
 # Authors & Contact
 Chang Yun-Tsan <Yun-Tsan.Chang@chuv.ch>  
